@@ -1,0 +1,4 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Exercícios\Exercício_4\obj\Debug\netcoreapp2.2\Exercício_4.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Exercícios\Exercício_4\obj\Debug\netcoreapp2.2\Exercício_4.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Exercícios\Exercício_4\obj\Debug\netcoreapp2.2\Exercício_4.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Exercícios\Exercício_4\obj\Debug\netcoreapp2.2\Exercício_4.AssemblyInfo.cs

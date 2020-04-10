@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 CNPJ\obj\Debug\netcoreapp2.2\Aula 6-2 CNPJ.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 CNPJ\obj\Debug\netcoreapp2.2\Aula 6-2 CNPJ.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 CNPJ\obj\Debug\netcoreapp2.2\Aula 6-2 CNPJ.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 CNPJ\obj\Debug\netcoreapp2.2\Aula 6-2 CNPJ.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 CNPJ\bin\Debug\netcoreapp2.2\Aula 6-2 CNPJ.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 CNPJ\bin\Debug\netcoreapp2.2\Aula 6-2 CNPJ.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 CNPJ\bin\Debug\netcoreapp2.2\Aula 6-2 CNPJ.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 CNPJ\bin\Debug\netcoreapp2.2\Aula 6-2 CNPJ.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 CNPJ\bin\Debug\netcoreapp2.2\Aula 6-2 CNPJ.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 CNPJ\obj\Debug\netcoreapp2.2\Aula 6-2 CNPJ.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 CNPJ\obj\Debug\netcoreapp2.2\Aula 6-2 CNPJ.pdb

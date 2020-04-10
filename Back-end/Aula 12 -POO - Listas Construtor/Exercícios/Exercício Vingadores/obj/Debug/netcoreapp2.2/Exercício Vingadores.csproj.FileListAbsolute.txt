@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\Exercícios\Exercício Vingadores\bin\Debug\netcoreapp2.2\Exercício Vingadores.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\Exercícios\Exercício Vingadores\bin\Debug\netcoreapp2.2\Exercício Vingadores.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\Exercícios\Exercício Vingadores\bin\Debug\netcoreapp2.2\Exercício Vingadores.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\Exercícios\Exercício Vingadores\bin\Debug\netcoreapp2.2\Exercício Vingadores.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\Exercícios\Exercício Vingadores\bin\Debug\netcoreapp2.2\Exercício Vingadores.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\Exercícios\Exercício Vingadores\obj\Debug\netcoreapp2.2\Exercício Vingadores.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\Exercícios\Exercício Vingadores\obj\Debug\netcoreapp2.2\Exercício Vingadores.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\Exercícios\Exercício Vingadores\obj\Debug\netcoreapp2.2\Exercício Vingadores.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\Exercícios\Exercício Vingadores\obj\Debug\netcoreapp2.2\Exercício Vingadores.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\Exercícios\Exercício Vingadores\obj\Debug\netcoreapp2.2\Exercício Vingadores.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\Exercícios\Exercício Vingadores\obj\Debug\netcoreapp2.2\Exercício Vingadores.pdb

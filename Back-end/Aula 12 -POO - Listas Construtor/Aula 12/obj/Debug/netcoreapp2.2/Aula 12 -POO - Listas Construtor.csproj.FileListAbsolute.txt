@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\bin\Debug\netcoreapp2.2\Aula 12 -POO - Listas Construtor.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\bin\Debug\netcoreapp2.2\Aula 12 -POO - Listas Construtor.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\bin\Debug\netcoreapp2.2\Aula 12 -POO - Listas Construtor.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\bin\Debug\netcoreapp2.2\Aula 12 -POO - Listas Construtor.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\bin\Debug\netcoreapp2.2\Aula 12 -POO - Listas Construtor.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\obj\Debug\netcoreapp2.2\Aula 12 -POO - Listas Construtor.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\obj\Debug\netcoreapp2.2\Aula 12 -POO - Listas Construtor.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\obj\Debug\netcoreapp2.2\Aula 12 -POO - Listas Construtor.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\obj\Debug\netcoreapp2.2\Aula 12 -POO - Listas Construtor.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\obj\Debug\netcoreapp2.2\Aula 12 -POO - Listas Construtor.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 12 -POO - Listas Construtor\obj\Debug\netcoreapp2.2\Aula 12 -POO - Listas Construtor.pdb

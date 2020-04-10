@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Aula-_7_Manipula-ao_Word\Exemplo\bin\Debug\netcoreapp2.2\Exemplo.deps.json
+C:\Users\fic\Desktop\Aula-_7_Manipula-ao_Word\Exemplo\bin\Debug\netcoreapp2.2\Exemplo.runtimeconfig.json
+C:\Users\fic\Desktop\Aula-_7_Manipula-ao_Word\Exemplo\bin\Debug\netcoreapp2.2\Exemplo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Aula-_7_Manipula-ao_Word\Exemplo\bin\Debug\netcoreapp2.2\Exemplo.dll
+C:\Users\fic\Desktop\Aula-_7_Manipula-ao_Word\Exemplo\bin\Debug\netcoreapp2.2\Exemplo.pdb
+C:\Users\fic\Desktop\Aula-_7_Manipula-ao_Word\Exemplo\obj\Debug\netcoreapp2.2\Exemplo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Aula-_7_Manipula-ao_Word\Exemplo\obj\Debug\netcoreapp2.2\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Aula-_7_Manipula-ao_Word\Exemplo\obj\Debug\netcoreapp2.2\Exemplo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Aula-_7_Manipula-ao_Word\Exemplo\obj\Debug\netcoreapp2.2\Exemplo.AssemblyInfo.cs
+C:\Users\fic\Desktop\Aula-_7_Manipula-ao_Word\Exemplo\obj\Debug\netcoreapp2.2\Exemplo.dll
+C:\Users\fic\Desktop\Aula-_7_Manipula-ao_Word\Exemplo\obj\Debug\netcoreapp2.2\Exemplo.pdb

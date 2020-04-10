@@ -1,0 +1,22 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2\bin\Debug\netcoreapp2.2\Validação de CPF.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2\bin\Debug\netcoreapp2.2\Validação de CPF.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2\bin\Debug\netcoreapp2.2\Validação de CPF.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2\bin\Debug\netcoreapp2.2\Validação de CPF.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2\bin\Debug\netcoreapp2.2\Validação de CPF.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2\obj\Debug\netcoreapp2.2\Validação de CPF.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2\obj\Debug\netcoreapp2.2\Validação de CPF.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2\obj\Debug\netcoreapp2.2\Validação de CPF.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2\obj\Debug\netcoreapp2.2\Validação de CPF.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2\obj\Debug\netcoreapp2.2\Validação de CPF.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2\obj\Debug\netcoreapp2.2\Validação de CPF.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 - CPF\obj\Debug\netcoreapp2.2\Validação de CPF.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 - CPF\obj\Debug\netcoreapp2.2\Validação de CPF.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 - CPF\obj\Debug\netcoreapp2.2\Validação de CPF.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 - CPF\obj\Debug\netcoreapp2.2\Validação de CPF.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 - CPF\obj\Debug\netcoreapp2.2\Validação de CPF.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 - CPF\obj\Debug\netcoreapp2.2\Validação de CPF.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 - CPF\bin\Debug\netcoreapp2.2\Validação de CPF.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 - CPF\bin\Debug\netcoreapp2.2\Validação de CPF.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 - CPF\bin\Debug\netcoreapp2.2\Validação de CPF.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 - CPF\bin\Debug\netcoreapp2.2\Validação de CPF.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 6 - Funções e Métodos\Aula 6-2 - CPF\bin\Debug\netcoreapp2.2\Validação de CPF.pdb

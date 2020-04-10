@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 3 - Repetição\Aula 3-1\bin\Debug\netcoreapp2.2\Aula 3 - Repetição.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 3 - Repetição\Aula 3-1\bin\Debug\netcoreapp2.2\Aula 3 - Repetição.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 3 - Repetição\Aula 3-1\bin\Debug\netcoreapp2.2\Aula 3 - Repetição.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 3 - Repetição\Aula 3-1\bin\Debug\netcoreapp2.2\Aula 3 - Repetição.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 3 - Repetição\Aula 3-1\bin\Debug\netcoreapp2.2\Aula 3 - Repetição.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 3 - Repetição\Aula 3-1\obj\Debug\netcoreapp2.2\Aula 3 - Repetição.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 3 - Repetição\Aula 3-1\obj\Debug\netcoreapp2.2\Aula 3 - Repetição.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 3 - Repetição\Aula 3-1\obj\Debug\netcoreapp2.2\Aula 3 - Repetição.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 3 - Repetição\Aula 3-1\obj\Debug\netcoreapp2.2\Aula 3 - Repetição.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 3 - Repetição\Aula 3-1\obj\Debug\netcoreapp2.2\Aula 3 - Repetição.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula 3 - Repetição\Aula 3-1\obj\Debug\netcoreapp2.2\Aula 3 - Repetição.pdb
