@@ -1,0 +1,148 @@
+*{
+    margin: 0;   
+}
+.menu{
+    list-style: none;
+    display: flex;
+    width: 320px;
+    justify-content: space-between;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+    font-family: arial;
+    text-transform: uppercase;
+}
+header{
+    background-color: #FF0909;
+}
+nav{
+    width: 1366px;
+    margin: auto; /* Coloca tudo dentro da nav automaticamente no centro do width acima*/
+    display: flex; /* Usado para flexibilizar a nav */ 
+    justify-content: space-between; /* Da usado espaço igual*/
+    align-items: center;   /* Alinha itens no centro */
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.menu a:hover, .ativo{
+    color: #DDDDDD;
+    border-bottom: 2px solid #DDDDDD; 
+    padding-bottom: 4px;
+    transition: 0.1s; /* Tempo para a interação aparecer*/
+}
+.banner{
+    width: 1366px;
+    margin: auto; /* Alinhando dentro do width*/
+    position: relative;
+}
+.texto_banner{
+    position: absolute; /* Relative: Obediente; Absolute: Rebelde*/
+    bottom: 50px;
+    left: 50px;
+    color: white;
+}
+.texto_banner .t1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.texto_banner .t2{
+    font-family: arial;
+    font-size: 30px;
+}
+.texto_banner p{
+    margin-bottom: 15px;
+    font-family: arial;
+}
+.container{
+    width: 1170px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap; /* Comando que faz quebra de linha, muito importante */
+    padding-bottom: 30px;
+}
+.card{
+    width: 350px;
+    font-family: arial;
+    line-height: 2.0em;
+    margin-top: 30px;
+}
+.btn{
+    font-family: arial;
+    background-color: #FF0909;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.btn:hover{
+    color: #FF0909;
+    background-color: white;
+    border: 2px solid #FF0909;
+}
+.card p{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+footer{
+    background-color: #FF0909;
+    text-align: center;
+    color: white;
+    font-family: arial;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+/*Medias queries*/
+/*Tablet*/
+@media (max-width: 1169px){ /*Comando média para começar a ser responsivo, 1169 é o máximo que a tela do tablet vai ter.*/
+    /*Configurando a responsividade da nav no Tablet*/
+    nav {
+        width: 768px;
+    }
+    .banner img{
+        width: 100%;
+    }
+    .banner{
+        width: 768px;
+    }
+    .texto_banner .t1{
+        font-size: 22px;
+    }.text_banner .t2{
+        font-size: 15px;
+    }
+    .container{
+        width: 720px;
+    }
+}
+/*Smart*/
+@media (max-width: 767px){
+    nav{
+        width: 368px;
+        flex-direction: column;
+    }
+    .menu{
+        flex-direction: column;
+        width: 150px;
+        padding-top: 15px;
+    }
+    .menu li{
+        padding-top: 10 px;
+    }
+    .banner{
+        width: 368px;
+    }
+    .banner img{
+        display: none;
+    }
+    .texto_banner{
+        color: black;
+        position: static;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .container{
+        width: 350px;
+    }
+}

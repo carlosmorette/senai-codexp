@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+}
+.menu{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 512px; /* Largura da classe menu*/
+}
+.menu a{
+    color: #707070;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: arial;
+}
+header{
+    background-color: #ECEFD9;
+    padding-top: 75px;
+    padding-bottom: 45px;
+}
+nav{
+    width: 1366px;
+    margin: auto;
+    display: flex;
+    justify-content: flex-end;
+}
+.banner{
+    background-image: url(../Imagens/lobostudio.png);
+    height: 502px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+main{
+    width: 1200px;
+    margin: auto;
+    font-family: arial;
+    text-align: justify;
+    line-height: 2.0;
+    color: #707070;
+    padding-bottom: 30px;
+}
+.conteudo{
+    display:flex;
+    justify-content: space-between;
+}
+.texto{
+    width: 500px;
+}
+footer{
+    background-color: #F1E4F2;
+}
+.rodape{
+    display: flex;
+    width: 1366px;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}

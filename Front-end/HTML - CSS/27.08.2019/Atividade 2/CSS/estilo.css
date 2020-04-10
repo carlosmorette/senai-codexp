@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+}
+.cabess{
+    justify-content: space-between; /* Comando usado para dar espaçamento entre os li, no caso os links*/
+    width: 512px; /* Usado para medir o espaço entre o primeiro link e o ultimo, no caso da lista, entre o primeiro li e o ultimo li*/
+    list-style: none; /* Tira a bolinha da lista */
+    display: flex;
+    width: 683px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.cabess a{
+    color: #707070;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cabess img{ /* Colocar a imagem no canto esquerdo voltar daqui a pouco*/
+    width: 50.5px;
+    height: 43.5px;
+}
+header{
+    background-color: #DCDCDC; /* Devemos usar o background no header porque ele irá preencher o header inteiro*/
+    padding-top: 29.5px;
+    padding-bottom: 32px;
+}
+nav{
+    width: 1000px;
+    margin: auto;
+    display: flex;
+    justify-content: flex-end;
+}
+.banner{
+    background-image: url(../Imagens/banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.conteudo1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 90px;
+}
+main{
+    text-align: justify;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 1200;
+    line-height: 1.5;
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+}
+
+main h1 {
+    margin-top: 20px;
+    margin-bottom: 100px;
+    align-self: center;
+   
+}
+.texto1{
+    width: 664px;
+    text-align: center;
+}
+.conteudo2{
+    justify-content: space-between;  
+    display: flex;
+}
+.texto2{
+    text-align: center;
+    width: 700px;
+}
+
+.botao{
+    color: #707070;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: arial;
+    border-style: solid;
+    padding: 10px 20px;
+    width: 100px;
+    margin: auto;
+}
+footer{
+    background-color: #DFD2DC;
+}
+.roda{
+    padding-left: 1500px;
+}

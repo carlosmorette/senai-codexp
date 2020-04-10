@@ -1,0 +1,5 @@
+#19E68C verde background
+#000000 preto menu
+#F8F8F8 branco do meio do site
+#222326 quase o rodapé
+#000000 preto rodapé

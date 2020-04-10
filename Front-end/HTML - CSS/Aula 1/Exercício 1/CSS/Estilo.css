@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+}
+
+body{
+    width: 1200px;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: arial;
+    line-height: 1.5;
+
+}
+
+header{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    background-color: #D4CCE6;   
+}
+
+p{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+footer{
+    text-align: center;
+    font-size: 13;
+    background-color: #E7D3DD;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    width: 1200px;
+}
+
+img{
+    width: 1200;
+}

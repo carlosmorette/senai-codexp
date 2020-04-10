@@ -1,0 +1,124 @@
+<html>
+    <head>
+        <title>Aula 2</title>
+        <meta charset="utf-8">
+        <style>
+            .botao{
+                color: white;
+                background-color: black;
+                text-decoration: none;
+                padding: 10px 20px;
+                margin: 10px;
+                border-radius: 4px;
+                font-family: arial;
+
+            }
+            table,td,th,tr{
+                border: 1px solid rgb(221, 18, 18);
+                border-collapse: collapse;
+            }
+            table{
+                width: 50%;
+            }
+            .menu{
+                list-style: none    ;
+                display: flex;
+                justify-content: space-between;
+                width: 300px;
+                background-color: gainsboro;
+                padding-top: 20px;
+                padding-bottom: 20px;
+                padding-right: 40px;
+            }
+            .menu a{
+                color: red;
+                font-family: arial;
+                text-decoration: none;
+            }
+            .menu a:hover{
+                color: black;
+            }
+        </style>
+    </head>
+    <body>
+        
+    
+
+        <!-- Listas ordenadas e não ordenadas -->
+        <ul class="menu">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Login</a></li>
+        </ul>
+        
+        
+        <ul>
+            <li>Feijão</li>
+            <li>Arroz</li>
+            <li>Óleo</li>
+            <li>Açucar</li>
+        </ul>
+
+        <ol>
+                <li>Feijão</li>
+                <li>Arroz</li>
+                <li>Óleo</li>
+                <li>Açucar</li>
+        </ol>
+        
+        <ol type="I">
+                <li>Feijão</li>
+                <li>Arroz</li>
+                <li>Óleo</li>
+                <li>Açucar</li>
+        </ol>
+
+        <ol type="A" start="2">
+                <li>Feijão</li>
+                <li>Arroz</li>
+                <li>Óleo</li>
+                <li>Açucar</li>
+        </ol>
+
+        <a href="https://www.google.com.br" target="_blank" class="botao">Google</a>
+
+
+        <!-- Tabelas -->
+        <table>
+            <thead>
+                <th>Nº do Pedido</th>
+                <th>Data</th>
+                <th>Valor</th>
+                <th>Cliente</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>123</td>
+                    <td>26.08.2019</td>
+                    <td>R$ 99,90</td>
+                    <td>Thiago</td> 
+                </tr>
+
+                <tr>
+                    <td>124</td>
+                    <td>26.08.2019</td>
+                    <td>R$ 199,90</td>
+                    <td>Saulo</td>
+                </tr>
+                <tr>
+                    <td>246</td>
+                    <td>14.07.200</td>
+                    <td>R$ 170,00</td>
+                    <td>Carlos</td>
+                </tr>
+
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="4">Paginação</td>
+                </tr>
+            </tfoot>
+        </table>
+    
+    </body>
+</html>

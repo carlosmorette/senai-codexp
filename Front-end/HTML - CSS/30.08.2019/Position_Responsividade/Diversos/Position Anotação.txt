@@ -1,0 +1,7 @@
+Dica sobre Position
+
+position: fixed: É fixado
+
+position: relative: manipulado apenas pelo top e left (comportado)
+
+position: absolute: Rebelde

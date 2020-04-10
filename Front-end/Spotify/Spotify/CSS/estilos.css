@@ -1,0 +1,132 @@
+*{
+    margin:0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: #000000;
+    padding: 20px;
+    margin: auto;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.logo{ /* Criada a classe logo para a manipulação da logo*/
+    width: 100px;
+    height: 40px;
+    margin-left: 170px;
+}
+.logo img{
+    width: 131px;
+    height: 40px;
+}
+.prima{
+    background-color: #19E68C;
+    display: flex; /* Flexibiliza o conteúdo*/
+    /*flex-direction: column; Deixa todos os itens da prima em coluna, um embaixo do outro*/
+    align-items: center; /* Deixa todo o conteúdo do prima no centro, tanto alto com lado*/
+    height: 545px;  
+}
+.textosprima{
+    flex-direction: column;
+    padding-left: 150px;
+    display: flex;
+    align-items: center;
+    padding-left: 140px;
+}
+.prima h1{
+    color: #FEFFFF;
+    font-size: 60px;
+    width: 800px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.paragrafoprima{
+    text-align: center;
+    line-height: 1.6em;
+}
+.paragrafoprima a{
+    color: white;
+}
+.prima img{
+    margin: auto;
+    padding-right: 100px;
+    width: 400px;
+    height: 250px;
+}
+
+.segunda{
+    padding-top: 70px;
+    background-color: #F8F8F8;
+    height: 310px;
+    display: flex;  
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+}
+.textossegunda{
+    display: flex;
+    flex-direction: column;
+    line-height: 2.0;
+}
+.textossegunda p{
+    font-size: 20px;      
+}
+.segunda h1{
+    font-size: 33px;
+}
+/* .segunda p{
+    text-align: center;
+} */ 
+.icons{
+    width: 425px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;    
+} 
+.segunda img{
+    width: 135px;
+    height: 40px;
+}
+.terca{
+    background-color: #222326;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tercaprima img{
+    margin-top: 50px;
+    width:400px;
+    height: 200px;
+}
+.tercaprima h1{
+    margin-top: 50px;
+    color: white;
+    font-size: 30px;
+
+}
+
+footer{
+    background-color: #000000;
+    display: flex;
+    justify-content: space-between;
+    padding: 33px;
+    font-size: 10px;
+    text-decoration: none;
+}
+footer ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 295px;
+    padding-left: 100px;
+}
+footer img{
+    width: 24px;
+    height: 18px;
+}
+.botao a:hover{
+    color: rgb(9, 165, 9);
+}

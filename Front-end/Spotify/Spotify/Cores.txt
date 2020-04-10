@@ -1,0 +1,8 @@
+#000000 Preto
+#19E68C Verde
+#FEFFFF Branco da letra
+#F8F8F8 Branco
+#222326 Preto fosco
+#000000 Preto
+
+https://www.devmedia.com.br/css3-flexbox-funcionamento-e-propriedades/29532

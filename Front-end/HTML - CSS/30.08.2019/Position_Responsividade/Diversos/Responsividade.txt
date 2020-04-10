@@ -1,0 +1,3 @@
+Acima de 1170 - PC
+Entre 768 e 1169 - Tablet
+767 pra baixo - Smartphone

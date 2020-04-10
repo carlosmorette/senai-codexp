@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+}
+body{
+    background-color:#EEE8E8;
+}
+/* Começo cabeçalho */
+header{
+    background-color: #FFFFFF;
+}
+main{
+    width: 1200px;
+    margin-left: 200px;
+    background-color: white;
+}
+.nave{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}    
+.links{  /* Classe para marcar a Home, About, Login */
+    display: flex;
+    justify-content: space-between;
+    width: 256px;
+    list-style: none;
+    margin: auto;
+    padding-bottom: 10px;
+}
+.links a{       /* Entrando na classe links modificando apenas a tag <a> que trata as links em específico */
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* Fim cabeçalho */
+.banner{
+    background-image: url(../Imagens/banner2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    margin-bottom: 60px;
+}
+main h1{
+    margin-bottom: 40px;
+}
+.conteudo1{
+    display: flex;
+    /* justify-content: space-between; */
+    width: 1115px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+/* Rodape */
+.imagens{
+    justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
+}
+.texto{
+    width: 600px;
+    text-align: center;
+    line-height: 1.5;   
+}
+footer{
+    text-align: center;
+    background-color: #D7CBEB;
+    padding-top: 31px;
+    padding-bottom: 37.5px;
+}
